@@ -13,7 +13,7 @@ A simple React application that allows users to search for books by title using 
 ## Demo
 
 [Live Demo Link](#)  
-*Replace `#` with your deployed app URL after deploying to CodeSandbox, StackBlitz, Vercel, or Netlify.*
+*Replace `#` with your deployed app URL after deploying to CodeSandbox*
 
 ## Screenshots
 
