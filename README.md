@@ -1,4 +1,3 @@
-# Book-Finder
 # Book Finder
 
 A simple React application that allows users to search for books by title using the Open Library API. Type any book title and see matching results, including cover images, authors, publication year, and publisher information.
@@ -13,7 +12,7 @@ A simple React application that allows users to search for books by title using 
 ## Demo
 
 [Live Demo Link](#)  
-*Replace `#` with your deployed app URL after deploying to CodeSandbox*
+*Replace `#` with your deployed app URL after deploying to CodeSandbox, StackBlitz, Vercel, or Netlify.*
 
 ## Screenshots
 
